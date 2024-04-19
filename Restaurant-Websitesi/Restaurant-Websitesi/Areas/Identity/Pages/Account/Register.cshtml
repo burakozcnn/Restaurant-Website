@@ -1,0 +1,55 @@
+﻿@page
+@model RegisterModel
+
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+@{
+    Layout = "~/Views/Shared/_LayoutOther.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Register.css">
+
+
+  <div class="container-fluid" id="Cart-All">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6 pr-0">
+          <div class="Card-image">
+            <h1>Hoşgeldin</h1>
+          </div>
+        </div>
+   
+        <div class="col-md-6 pl-0 pr-0">
+         <div class="Card-Content">
+           <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2>Hesap Oluştur</h2>
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <input asp-for="Input.Email" autocomplete="username" aria-required="true" placeholder="Email" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+
+            <input asp-for="Input.Password" autocomplete="new-password" aria-required="true" placeholder="Password" />
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+            <input asp-for="Input.ConfirmPassword" autocomplete="new-password" aria-required="true" placeholder="ConfirmPassword" />
+            <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+
+            <button type="submit">Register</button>
+            <a href="#">Hesabın Yok Mu ? <span>Kayıt Ol</span></a>
+           </form>
+         </div>
+       </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

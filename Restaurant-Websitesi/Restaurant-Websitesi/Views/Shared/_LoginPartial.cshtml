@@ -1,0 +1,104 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+    </li>
+    <li class="nav-item">
+        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+        </form>
+    </li>
+}
+else
+{
+    <div class="nav">
+        <div class="nav-icon">
+              <i class="fa-solid fa-user" style="color: #ffffff; font-size:18px;"></i>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+}
+</ul>
+
+
+<style>
+
+    .nav {
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        position: relative;
+    }
+
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: transparent;
+        padding: 10px;
+        z-index: 1;
+    }
+
+    .nav-item {
+        list-style-type: none;
+    }
+
+    .nav-link {
+        padding:3px 20px!important;
+    }
+
+    .nav-icon:hover + .nav-menu,
+    .nav-menu:hover {
+        display: flex;
+    }
+
+    .nav .nav-icon .fa-solid:hover {
+        color: #ffbe33 !important;
+    }
+  
+</style>
+
+<script>
+    var navIcon = document.querySelector(".nav-icon");
+    var navMenu = document.querySelector(".nav-menu");
+
+    navIcon.addEventListener("mouseenter", function () {
+        navMenu.style.display = "flex";
+    });
+
+    navIcon.addEventListener("mouseleave", function () {
+        navMenu.style.display = "none";
+    });
+
+    navMenu.addEventListener("mouseleave", function () {
+        navMenu.style.display = "none";
+    });
+</script>
+
+
+

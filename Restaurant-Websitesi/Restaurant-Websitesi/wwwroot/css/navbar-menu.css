@@ -1,0 +1,23 @@
+
+
+#Navbar-Menu li.current > a {
+    color: #ffbe33;
+}
+
+#Navbar-Menu li a {
+    padding: 5px 20px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#Navbar-Menu li a:hover {
+    color: #ffbe33;
+}
+
+#shop-cart-icon:hover {
+    color: #ffbe33 !important;
+}

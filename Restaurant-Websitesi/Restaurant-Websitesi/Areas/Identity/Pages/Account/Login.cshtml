@@ -1,0 +1,51 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+@{
+    Layout = "~/Views/Shared/_LayoutOther.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Login.css">
+
+<div class="Card">
+    <div class="Card-İmg">
+        <div class="image">
+            <h2>Hoşgeldiniz</h2>
+        </div>
+    </div>
+    <div class="Card-İtems">
+        <form id="account" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <i id="email-icon" class="fa fa-envelope" aria-hidden="true"></i>
+            <input id="email-input" asp-for="Input.Email" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+
+            <i id="password-icon" class="fa fa-lock" style="font-size:18px;"></i>
+            <input id="password-input" asp-for="Input.Password" autocomplete="current-password" aria-required="true" placeholder="password" />
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+            <div class="rows">
+                <label asp-for="Input.RememberMe" style="margin-left:20px;">
+                    <input class="form-check-input" asp-for="Input.RememberMe" />
+                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                </label>
+                <a id="" asp-page="./ForgotPassword">Forgot your password?</a>
+            </div>
+
+            <div class="login-info">
+                <button type="submit" class="">Log in</button>
+                <p><a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a></p>
+                <p><a asp-page="./ResendEmailConfirmation">Resend email confirmation</a></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

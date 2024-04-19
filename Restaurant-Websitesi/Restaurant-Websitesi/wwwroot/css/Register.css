@@ -1,0 +1,128 @@
+﻿
+
+#Cart-All {
+    background-color: #171718;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
+
+.container-fluid .container .row .col-md-6 .Card-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/images/register-template.jpg");
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow: -4px 4px 8px 1px rgba(239,167,101,0.75);
+    -webkit-box-shadow: -4px 4px 8px 1px rgba(239,167,101,0.75);
+    -moz-box-shadow: -4px 4px 8px 1px rgba(239,167,101,0.75);
+}
+
+.container-fluid .container .row .col-md-6 .Card-image h1 {
+    color: white;
+    font-size: 45px;
+    cursor: default;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 108px;
+    padding-bottom: 108px;
+    -webkit-box-shadow: 4px 4px 8px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 8px 1px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 8px 1px rgba(0,0,0,0.75);
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm input {
+    width: 400px;
+    border: none;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    transition: all 0.3s;
+    padding: 6px 0px;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm input:hover {
+    border-color: #efa765;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm button {
+    padding: 6px;
+    width: 220px;
+    border: none;
+    margin-bottom: 50px;
+    color: #efa765;
+    border: 1px solid #efa765;
+    text-decoration: none;
+    transition: all 0.5s;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 25px;
+    background-color: transparent;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm button:hover {
+    background-color: #efa765;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+    cursor: default;
+    color: wheat;
+}
+
+.container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm a {
+    color: wheat;
+}
+
+
+@media (max-width: 768px) {
+
+    .row{
+        flex-wrap:wrap;
+    }
+    .container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm input {
+       width:305px;
+    }
+
+    .container-fluid .container .row .col-md-6:last-child {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    .container-fluid .container .row .col-md-6:first-child {
+        padding-right: 15px !important;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .container-fluid .container .row .col-md-6:last-child .Card-Content #registerForm input {
+        width: 305px;
+    }
+}

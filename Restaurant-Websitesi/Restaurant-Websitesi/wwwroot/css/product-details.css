@@ -1,0 +1,53 @@
+#write-review{
+    margin-left: 50px;
+}
+
+#product-price{
+    font-size: 28px;
+    color: red;
+    font-weight: 700;
+}
+
+#pills-description-tab{
+    padding: 8px 0px;
+    margin-right: 20px;
+}
+
+#pills-payment-methods-tab{
+    padding: 8px 0px;
+    margin-right: 20px;
+}
+
+#pills-comment-tab{
+    padding: 8px 0px;
+}
+
+.col-md-12 input{
+    width: 120px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 6px 12px;
+    height: 44px;
+    text-align: center;
+}
+
+.button-btn{
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 2px solid #efa765;
+    color: #efa765;
+    transition: all 0.5s;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.button-btn:hover{
+    padding: 8px 12px;
+    background-color: #efa765;
+    color: rgb(0, 0, 0);
+    font-weight: 600; 
+    font-size: 16px;
+}
+
+#description{
+    font-size: 15px;
+}

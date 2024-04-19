@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\shared\\_layoutother.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\shared\\_layoutother.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|c:\\users\\administrator\\desktop\\restaurant-websitesi\\restaurant-websitesi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0BDF72-C48C-4731-8E5F-7F38F60FC398}|Restaurant-Websitesi\\Restaurant-Websitesi.csproj|solutionrelative:restaurant-websitesi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 584,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:18.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Home\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Home\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIBAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:18.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:18.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:18.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:18.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutOther.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Shared\\_LayoutOther.cshtml",
+              "RelativeDocumentMoniker": "Restaurant-Websitesi\\Views\\Shared\\_LayoutOther.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\Views\\Shared\\_LayoutOther.cshtml",
+              "RelativeToolTip": "Restaurant-Websitesi\\Views\\Shared\\_LayoutOther.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-06-16T14:30:19.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

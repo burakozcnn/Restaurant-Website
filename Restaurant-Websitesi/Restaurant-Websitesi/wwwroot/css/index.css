@@ -1,0 +1,508 @@
+
+/* slider section */
+
+.slider_section {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  padding: 45px 0 75px 0;
+}
+
+.slider_section .row {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.slider_section #customCarousel1 {
+  width: 100%;
+  position: unset;
+}
+
+.slider_section .detail-box {
+  color: #ffffff;
+  margin-bottom: 145px;
+}
+
+.slider_section .detail-box h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.slider_section .detail-box p {
+  font-size: 14px;
+}
+
+.slider_section .detail-box a {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #ffbe33;
+  color: #ffffff;
+  border-radius: 45px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: none;
+  margin-top: 10px;
+}
+
+.slider_section .detail-box a:hover {
+  background-color: #e69c00;
+}
+
+.slider_section .img-box img {
+  width: 100%;
+}
+
+.slider_section .carousel-indicators {
+  position: unset;
+  margin: 0;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.slider_section .carousel-indicators li {
+  background-color: #ffffff;
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  opacity: 1;
+}
+
+.slider_section .carousel-indicators li.active {
+  width: 20px;
+  height: 20px;
+  background-color: #ffbe33;
+}
+
+/* end slider section */
+
+
+/* Offer discount section */
+
+.offer_section {
+  position: relative;
+  padding-top: 45px;
+  background-color: #171718;
+}
+
+.offer_section .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-top: 45px;
+  border-radius: 5px;
+  padding: 20px 15px;
+  background-color: #222831;
+  color: #ffffff;
+}
+
+.offer_section .box .img-box {
+  width: 175px;
+  min-width: 175px;
+  height: 175px;
+  margin-right: 15px;
+  position: relative;
+  -webkit-transition: all 0.1 0.5s;
+  transition: all 0.1 0.5s;
+  border-radius: 100%;
+  border: 5px solid #ffbe33;
+  overflow: hidden;
+}
+
+.offer_section .box .img-box img {
+  width: 100%;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+
+.offer_section .box .detail-box h5 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 24px;
+  margin: 0;
+}
+
+.offer_section .box .detail-box h6 {
+  font-family: 'Dancing Script', cursive;
+  margin: 10px 0;
+}
+
+.offer_section .box .detail-box h6 span {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.offer_section .box .detail-box a {
+  display: inline-block;
+  padding: 10px 30px;
+  background-color: #ffbe33;
+  color: #ffffff;
+  border-radius: 45px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: none;
+}
+
+.offer_section .box .detail-box a:hover {
+  background-color: #e69c00;
+}
+
+.offer_section .box .detail-box a svg {
+  width: 20px;
+  height: auto;
+  margin-left: 5px;
+  fill: #ffffff;
+}
+
+.offer_section .box:hover .img-box img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+/* End Offer discount section */
+
+
+/* Card-Menu start section */
+
+.Card-Menu{
+  background-color: #171718;
+}
+
+.Card-Menu .Card-All{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.Card-Menu .Card-All .Card-1{
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 30px;
+  border-bottom: 4px solid red;
+  overflow: hidden;
+  margin-bottom: 25px;
+}
+
+.Card-Menu .Card-All .Card-1 .Card-1-Child{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('/images/card-pasta.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 255px;
+  height: 255px;
+  transition: all 0.5s;
+}
+
+.Card-Menu .Card-All .Card-1 .Card-1-Child p{
+  color: white;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-1 .Card-1-Child a{
+  font-weight: 600;
+  padding: 2px 10px;
+  transition: all 0.5s;
+  background-color: transparent;
+  border: 1px solid white;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+.Card-Menu .Card-All .Card-1 .Card-1-Child a:hover{
+  color: rgb(0, 0, 0);
+  border: 1px solid #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-2{
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 30px;
+  border-bottom: 4px solid red;
+  overflow: hidden;
+  margin-bottom: 25px;
+}
+
+.Card-Menu .Card-All .Card-2 .Card-2-Child{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('/images/card-burger.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 255px;
+  height: 255px;
+  transition: all 0.5s;
+}
+
+.Card-Menu .Card-All .Card-2 .Card-2-Child p{
+  color: white;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-2 .Card-2-Child a{
+  font-weight: 600;
+  padding: 2px 10px;
+  transition: all 0.5s;
+  background-color: transparent;
+  border: 1px solid white;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-2 .Card-2-Child a:hover{
+  color: rgb(0, 0, 0);
+  border: 1px solid #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-3{
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 30px;
+  border-bottom: 4px solid red;
+  overflow: hidden;
+  margin-bottom: 25px;
+}
+
+.Card-Menu .Card-All .Card-3 .Card-3-Child{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('/images/card-pizza.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 255px;
+  height: 255px;
+  transition: all 0.5s;
+}
+
+.Card-Menu .Card-All .Card-3 .Card-3-Child p{
+  color: white;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-3 .Card-3-Child a{
+  font-weight: 600;
+  padding: 2px 10px;
+  transition: all 0.5s;
+  background-color: transparent;
+  border: 1px solid white;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-3 .Card-3-Child a:hover{
+  color: rgb(0, 0, 0);
+  border: 1px solid #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-4{
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 30px;
+  border-bottom: 4px solid red;
+  overflow: hidden;
+  margin-bottom: 25px;
+}
+
+.Card-Menu .Card-All .Card-4 .Card-4-Child{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('/images/card-fries.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 255px;
+  height: 255px;
+  transition: all 0.5s;
+}
+
+.Card-Menu .Card-All .Card-4 .Card-4-Child p{
+  color: white;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-4 .Card-4-Child a{
+  font-weight: 600;
+  padding: 2px 10px;
+  transition: all 0.5s;
+  background-color: transparent;
+  border: 1px solid white;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-4 .Card-4-Child a:hover{
+  color: rgb(0, 0, 0);
+  border: 1px solid #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Card-Menu .Card-All .Card-1:hover .Card-1-Child{
+  transform: scale(1.2);
+}
+.Card-Menu .Card-All .Card-1:hover{
+  border-bottom: 4px solid goldenrod;
+}
+
+.Card-Menu .Card-All .Card-2:hover .Card-2-Child{
+  transform: scale(1.2);
+}
+.Card-Menu .Card-All .Card-2:hover{
+  border-bottom: 4px solid goldenrod;
+}
+
+.Card-Menu .Card-All .Card-3:hover .Card-3-Child{
+  transform: scale(1.2);
+}
+.Card-Menu .Card-All .Card-3:hover{
+  border-bottom: 4px solid goldenrod;
+}
+
+.Card-Menu .Card-All .Card-4:hover .Card-4-Child{
+  transform: scale(1.2);
+}
+.Card-Menu .Card-All .Card-4:hover{
+  border-bottom: 4px solid goldenrod;
+}
+
+/* Card-Menu end section */
+
+
+/* client section start */
+
+.client_section{
+  padding-top: 20px;
+  background-color: #171718;
+}
+
+.client_section .heading_container {
+  margin-bottom: 30px;
+}
+
+.client_section .box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.client_section .box .img-box {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 115px;
+  position: relative;
+  margin-top: 30px;
+}
+
+.client_section .box .img-box img {
+  border-radius: 100%;
+  border: 5px solid #ffbe33;
+  position: relative;
+}
+
+.client_section .box .img-box::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  background-color: #ffbe33;
+  -webkit-transform: rotate(45deg) translateX(-50%);
+  transform: rotate(45deg) translateX(-50%);
+}
+
+.client_section .box .detail-box {
+  background-color: #222831;
+  color: #ffffff;
+  padding: 25px 25px 15px 25px;
+  border-radius: 5px;
+}
+
+.client_section .box .detail-box h6 {
+  font-weight: 600;
+  font-size: 18px;
+  margin: 15px 0 5px 0;
+}
+
+.client_section .box .detail-box p {
+  margin-bottom: 0;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.client_section .owl-carousel .owl-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-top: 45px;
+  padding: 0 15px;
+}
+
+.client_section .owl-carousel .owl-nav .owl-prev,
+.client_section .owl-carousel .owl-nav .owl-next {
+  width: 45px;
+  height: 45px;
+  background-color: #ffbe33;
+  color: #ffffff;
+  outline: none;
+  bottom: 0px;
+  font-size: 24px;
+  margin: 0 5px;
+  border-radius: 100%;
+}
+
+/* client section end */

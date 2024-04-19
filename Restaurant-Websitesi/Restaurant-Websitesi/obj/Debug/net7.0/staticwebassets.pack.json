@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\navbar-menu.css",
+      "PackagePath": "staticwebassets\\css\\navbar-menu.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\product-details.css",
+      "PackagePath": "staticwebassets\\css\\product-details.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\BUCATINI.png",
+      "PackagePath": "staticwebassets\\images\\BUCATINI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Big-Double-MeatBall.png",
+      "PackagePath": "staticwebassets\\images\\Big-Double-MeatBall.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Big-King-Jr.png",
+      "PackagePath": "staticwebassets\\images\\Big-King-Jr.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Big-Mixed-Marley.png",
+      "PackagePath": "staticwebassets\\images\\Big-Mixed-Marley.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Big-Pepper.png",
+      "PackagePath": "staticwebassets\\images\\Big-Pepper.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Big-mozzarella.png",
+      "PackagePath": "staticwebassets\\images\\Big-mozzarella.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CAESAR.png",
+      "PackagePath": "staticwebassets\\images\\CAESAR.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CANNELLONI.png",
+      "PackagePath": "staticwebassets\\images\\CANNELLONI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CAPRICCIOSA.png",
+      "PackagePath": "staticwebassets\\images\\CAPRICCIOSA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CARBONARA.png",
+      "PackagePath": "staticwebassets\\images\\CARBONARA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CASUNZIEI.png",
+      "PackagePath": "staticwebassets\\images\\CASUNZIEI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CULINGIONIS.png",
+      "PackagePath": "staticwebassets\\images\\CULINGIONIS.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\CheeseBurger.png",
+      "PackagePath": "staticwebassets\\images\\CheeseBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Chicken-Royale.png",
+      "PackagePath": "staticwebassets\\images\\Chicken-Royale.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Classic-Chicken.png",
+      "PackagePath": "staticwebassets\\images\\Classic-Chicken.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\DIABLO.png",
+      "PackagePath": "staticwebassets\\images\\DIABLO.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Diet-Cola.png",
+      "PackagePath": "staticwebassets\\images\\Diet-Cola.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Double-Mc-Chicken.png",
+      "PackagePath": "staticwebassets\\images\\Double-Mc-Chicken.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Double-MeatBall.png",
+      "PackagePath": "staticwebassets\\images\\Double-MeatBall.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Double-Nugget-Jr.png",
+      "PackagePath": "staticwebassets\\images\\Double-Nugget-Jr.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\FARFALLE.png",
+      "PackagePath": "staticwebassets\\images\\FARFALLE.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\FETTUCCINE.png",
+      "PackagePath": "staticwebassets\\images\\FETTUCCINE.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\FORTEZZA.png",
+      "PackagePath": "staticwebassets\\images\\FORTEZZA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\FUSILLI.png",
+      "PackagePath": "staticwebassets\\images\\FUSILLI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Fruit-Soda.png",
+      "PackagePath": "staticwebassets\\images\\Fruit-Soda.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\GNOCCHI.png",
+      "PackagePath": "staticwebassets\\images\\GNOCCHI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-AI-CIPOLLOTTI.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-AI-CIPOLLOTTI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-ALLA-GRIGLIA.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-ALLA-GRIGLIA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-CAPRESE.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-CAPRESE.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-CAPRICCIOSA.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-CAPRICCIOSA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-DI-MARE.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-DI-MARE.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-DIRISO.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-DIRISO.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-MARI-E-MONTI.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-MARI-E-MONTI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\INSALATA-MISTA.png",
+      "PackagePath": "staticwebassets\\images\\INSALATA-MISTA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\LASAGNE.png",
+      "PackagePath": "staticwebassets\\images\\LASAGNE.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Lemonade-Fuse-Tea.png",
+      "PackagePath": "staticwebassets\\images\\Lemonade-Fuse-Tea.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\MALFATTI.png",
+      "PackagePath": "staticwebassets\\images\\MALFATTI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\MARGHERITA.png",
+      "PackagePath": "staticwebassets\\images\\MARGHERITA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Milkshake.png",
+      "PackagePath": "staticwebassets\\images\\Milkshake.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Monster-Energy-Drink.png",
+      "PackagePath": "staticwebassets\\images\\Monster-Energy-Drink.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\NEAPOLITANO.png",
+      "PackagePath": "staticwebassets\\images\\NEAPOLITANO.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Natty-Daddy-Lemonade-Drink.png",
+      "PackagePath": "staticwebassets\\images\\Natty-Daddy-Lemonade-Drink.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\PEPPERONI.png",
+      "PackagePath": "staticwebassets\\images\\PEPPERONI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\POLPO-ALL-INSALATA.png",
+      "PackagePath": "staticwebassets\\images\\POLPO-ALL-INSALATA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\PROSCIUTTO.png",
+      "PackagePath": "staticwebassets\\images\\PROSCIUTTO.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Plain.png",
+      "PackagePath": "staticwebassets\\images\\Plain.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Red-Bull-Energy-Drink.png",
+      "PackagePath": "staticwebassets\\images\\Red-Bull-Energy-Drink.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Roasted-Chicken-Cobb.png",
+      "PackagePath": "staticwebassets\\images\\Roasted-Chicken-Cobb.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Rodeo-Whopper.png",
+      "PackagePath": "staticwebassets\\images\\Rodeo-Whopper.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\STRANGOLAPRETTI.png",
+      "PackagePath": "staticwebassets\\images\\STRANGOLAPRETTI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Spiced-Chickpea-Salad.png",
+      "PackagePath": "staticwebassets\\images\\Spiced-Chickpea-Salad.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Starbucks-Coffee.png",
+      "PackagePath": "staticwebassets\\images\\Starbucks-Coffee.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\TARANTELLA.png",
+      "PackagePath": "staticwebassets\\images\\TARANTELLA.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Tamek-Cold-Lemonade-Tea.png",
+      "PackagePath": "staticwebassets\\images\\Tamek-Cold-Lemonade-Tea.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Tea.png",
+      "PackagePath": "staticwebassets\\images\\Tea.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Turnip-water.png",
+      "PackagePath": "staticwebassets\\images\\Turnip-water.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\VINCENT.png",
+      "PackagePath": "staticwebassets\\images\\VINCENT.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\VINCISGRASSI.png",
+      "PackagePath": "staticwebassets\\images\\VINCISGRASSI.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Vegetarian.png",
+      "PackagePath": "staticwebassets\\images\\Vegetarian.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\Water.png",
+      "PackagePath": "staticwebassets\\images\\Water.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\about-background.jpg",
+      "PackagePath": "staticwebassets\\images\\about-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\card-burger.jpg",
+      "PackagePath": "staticwebassets\\images\\card-burger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\card-fries.png",
+      "PackagePath": "staticwebassets\\images\\card-fries.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\card-pasta.jpg",
+      "PackagePath": "staticwebassets\\images\\card-pasta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\card-pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\card-pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\images\\register-template.jpg",
+      "PackagePath": "staticwebassets\\images\\register-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\js\\product-details.js",
+      "PackagePath": "staticwebassets\\js\\product-details.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Restaurant-Websitesi\\Restaurant-Websitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Restaurant-Websitesi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Restaurant-Websitesi.props",
+      "PackagePath": "build\\Restaurant-Websitesi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant-Websitesi.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant-Websitesi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Restaurant-Websitesi.props",
+      "PackagePath": "buildTransitive\\Restaurant-Websitesi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
